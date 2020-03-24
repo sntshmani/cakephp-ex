@@ -212,7 +212,7 @@ pre {
 
         <hgroup>
            <h1>Welcome to your CakePHP application on OpenShift</h1>
-           <h2><p>Coronavirus disease (COVID-19) advice for the public: <a href="#" style="font-size: 80%;">read the WHO advice</a> </p> </h2>
+           <h2><p>Coronavirus disease (COVID-19) advice for the public: <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public" target="_blank" style="font-size: 80%;">read the WHO advice</a> </p> </h2>
         </hgroup>
 
         <?= $this->fetch('content') ?>
