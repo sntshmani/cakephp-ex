@@ -61,6 +61,7 @@ ul {
   margin-left: auto;
   padding-left: 15px;
   padding-right: 15px;
+  background-color: pink;
 }
 .container:before,
 .container:after {
@@ -211,7 +212,7 @@ pre {
 
         <hgroup>
            <h1>Welcome to your CakePHP application on OpenShift</h1>
-           <div style="width:100%;position:fixed;top: -18px;right: -100px;z-index:102;font-size: 60%;float:right;/* align-content: stretch; */"><p>Coronavirus disease (COVID-19) advice for the public: <a href="#" style="font-size: 80%;">read the WHO advice</a> </p> </div>
+           <h2><p>Coronavirus disease (COVID-19) advice for the public: <a href="#" style="font-size: 80%;">read the WHO advice</a> </p> </h2>
         </hgroup>
 
         <?= $this->fetch('content') ?>
