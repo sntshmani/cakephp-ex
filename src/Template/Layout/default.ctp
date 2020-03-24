@@ -159,7 +159,7 @@ h1:after {
   display: block;
   width: 100%;
   height: 1px;
-  background-color: #ddd;
+  background-color: #ff92c1;
 }
 h2 {
   font-size: 19px;
@@ -182,7 +182,7 @@ html {
   height: 100%;
 }
 code {
-  background-color: white;
+  background-color: pink;
   border: 1px solid #ccc;
   padding: 1px 5px;
   color: #888;
@@ -193,7 +193,7 @@ pre {
   margin: 0 0 20px;
   font-size: 13px;
   line-height: 1.4;
-  background-color: #fff;
+  background-color: #ff92c1;
   border-left: 2px solid rgba(120,120,120,0.35);
   white-space: pre;
   white-space: pre-wrap;
